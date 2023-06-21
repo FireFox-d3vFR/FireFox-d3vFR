@@ -4,7 +4,7 @@ Français (French) :fr:
 - 🌱 I’m currently learning du Php (complexe), API ; enfaite tout ce qui me permet d'avoir un site web 100% dynamique.
 - 💞️ Je souhaite uniquement partager mes projets avec vous et avoir des retours positifs !
 - 📫 Pour l'instant je n'ai pas encore de réseau spécialisé pour le code... J'ai uniquement un profil de dessinateur sur Instagram : @firefox_drawingfr
-<!---------------------------------------------------------------------------------------------------------------------------------------------------------/>
+
 Anglais (English) :gb:
 - 👋 Hi, I'm @FireFox-d3vFR
 - 👀 I'm interested in Web development (HTML, CSS, JS, etc...), programming in general and Cybersecurity!
