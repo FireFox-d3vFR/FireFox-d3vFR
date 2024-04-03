@@ -1,13 +1,13 @@
 Français (French) :fr:
 - 👋 Salut, je suis @FireFox-d3vFR
-- 👀 Je suis intéressé par le dévelopement Web (HTML, CSS, JS, etc...), programmation en général et la Cybersécurité !
-- 🌱 J'apprends actuellement du Php (complexe), API ; enfaite tout ce qui me permet d'avoir un site web 100% dynamique.
-- 💞️ Je souhaite uniquement partager mes projets avec vous et avoir des retours positifs !
-- 📫 Pour l'instant je n'ai pas encore de réseau spécialisé pour le code... J'ai uniquement un profil de dessinateur sur Instagram : @firefox_drawingfr
+- 👀 Je suis intéressé par le dévelopement Web, la CyberSécurité et l'IA !
+- 🌱 J'explore les nouvelles technos (reacts, vue, three, etc...).
+- 💞️ Veillez retrouver mes projets perso tout comme mes projets "scolaires".
+- 📫 En cours de développement d'un futur portfolio en ligne... Vous pouvez déjà faire une visite sur le site https://amtta-mions.fr.
 
 Anglais (English) :gb:
 - 👋 Hi, I'm @FireFox-d3vFR
-- 👀 I'm interested in Web development (HTML, CSS, JS, etc...), programming in general and Cybersecurity!
-- 🌱 I'm currently learning Php (complex), API; infact everything that allows me to have a 100% dynamic website.
-- 💞️ I only want to share my projects with you and get positive feedback!
-- 📫 For the moment I don't have a specialized network for the code yet... I only have a designer profile on Instagram: @firefox_drawingfr
+- 👀  I'm interested in web development, CyberSecurity and AI!
+- 🌱  I'm exploring new technos (reacts, vue, three, etc...).
+- 💞️ Check out my personal and school projects.
+- 📫 Currently developing a future online portfolio... You can already visit https://amtta-mions.fr.
