@@ -36,6 +36,6 @@ Développeur Web & Applicatif en alternance chez Orange, actuellement en formati
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=FireFox-d3vFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FireFox-d3vFR&show_icons=true&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FireFox-d3vFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FireFox-d3vFR&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
